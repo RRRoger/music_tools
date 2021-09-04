@@ -41,3 +41,6 @@ Options:
   -d, --des TEXT   Destination directory, 目标文件路径, 默认新建`<源路径>.Convert`
   -a, --all-files  Flag, Convert all files
 ```
+
+## 2. [Cut Music](cut_music/readme.md)
+
